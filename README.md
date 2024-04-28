@@ -1,3 +1,3 @@
 # BOUNCY RUMBLE
 
-> This is currently under development.
+> At the moment, there are no maintenance or management plans for this project. Reference purposes only.
